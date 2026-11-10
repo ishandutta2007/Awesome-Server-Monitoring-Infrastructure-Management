@@ -13,7 +13,7 @@
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
-> 📊 A comprehensive, SEO-optimized curated list of top **Server Monitoring**, **Infrastructure Management**, and **Cloud Observability** platforms — featuring SaaS solutions sorted by company valuation and battle-tested open-source alternatives sorted by GitHub stars.
+> 📊 A comprehensive, SEO-optimized curated list of top **Server Monitoring**, **Infrastructure Management**, and **Cloud Observability** platforms — featuring SaaS solutions sorted by company valuation and battle-tested open-source alternatives sorted by GitHub_Stars.
 >
 > 🌟 **Star this repository if you find it helpful for your DevOps and SysAdmin stacks!** 🌟
 
@@ -72,12 +72,12 @@ Commercial, managed cloud-native Server Monitoring and Infrastructure Management
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven, and enterprise-grade open-source Server Monitoring and Infrastructure Management systems. Sorted by **GitHub Star Count (descending)**.
+Self-hosted, community-driven, and enterprise-grade open-source Server Monitoring and Infrastructure Management systems. Sorted by **GitHub Stars_Count (descending)**.
 
 ---
 
 ### 🟢 Uptime Kuma
-[![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
 **Stack:** Node.js / Vue.js / SQLite | **License:** MIT | **Repository:** [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)  
 Uptime Kuma is a self-hosted monitoring tool offering responsive HTTP(s), TCP, DNS, and ping monitoring alongside status pages. It features an intuitive web UI, certificate expiry tracking, and native integrations with 90+ notification channels (Telegram, Discord, Slack, email, Webhooks).  
 🎯 **Best for:** Lightweight server availability tracking, uptime checks, and public status pages.
@@ -85,7 +85,7 @@ Uptime Kuma is a self-hosted monitoring tool offering responsive HTTP(s), TCP, D
 ---
 
 ### ⚡ Netdata
-[![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)  
 **Stack:** C / Go / Python | **License:** GPL-3.0 | **Repository:** [netdata/netdata](https://github.com/netdata/netdata)  
 Netdata delivers real-time, per-second performance troubleshooting and infrastructure telemetry with zero configuration. It collects thousands of system and container metrics with ultra-low CPU and memory footprints, providing ML-based anomaly detection out of the box.  
 🎯 **Best for:** Instant per-second node diagnostics, edge device observability, and real-time server troubleshooting.
@@ -93,7 +93,7 @@ Netdata delivers real-time, per-second performance troubleshooting and infrastru
 ---
 
 ### 📊 Grafana
-[![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
 **Stack:** TypeScript / Go | **License:** AGPL-3.0 | **Repository:** [grafana/grafana](https://github.com/grafana/grafana)  
 Grafana is the world's most widely adopted open-source visualization and dashboarding engine for operational metrics. It connects seamlessly to dozens of storage backends including Prometheus, Graphite, InfluxDB, Elasticsearch, and relational databases.  
 🎯 **Best for:** Enterprise monitoring dashboards, unified metric visualization, and cross-source telemetry exploration.
@@ -101,7 +101,7 @@ Grafana is the world's most widely adopted open-source visualization and dashboa
 ---
 
 ### 🔥 Prometheus
-[![GitHub stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers)  
 **Stack:** Go | **License:** Apache-2.0 | **Repository:** [prometheus/prometheus](https://github.com/prometheus/prometheus)  
 Prometheus is a CNCF-graduated open-source monitoring and alerting toolkit built for dynamic cloud-native environments. It utilizes a pull-based HTTP metric scraping model, a local time-series database (TSDB), dynamic service discovery, and PromQL.  
 🎯 **Best for:** Cloud-native Kubernetes monitoring, dynamic service discovery, and metric alerting.
@@ -109,7 +109,7 @@ Prometheus is a CNCF-graduated open-source monitoring and alerting toolkit built
 ---
 
 ### 🔍 Glances
-[![GitHub stars](https://img.shields.io/github/stars/nicolargo/glances?style=social&color=white)](https://github.com/nicolargo/glances/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/nicolargo/glances?style=social&color=white)](https://github.com/nicolargo/glances/stargazers)  
 **Stack:** Python | **License:** LGPL-3.0 | **Repository:** [nicolargo/glances](https://github.com/nicolargo/glances)  
 Glances is an open-source system monitoring tool that presents extensive host resource utilization data via a curses terminal interface, web UI, or REST API. It tracks CPU, memory, load averages, process lists, network I/O, disk partitions, and Docker containers.  
 🎯 **Best for:** Quick single-node CLI/web system monitoring, Docker host inspection, and minimal resource profiling.
@@ -117,7 +117,7 @@ Glances is an open-source system monitoring tool that presents extensive host re
 ---
 
 ### 🔎 SigNoz
-[![GitHub stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)  
 **Stack:** Go / TypeScript / ClickHouse | **License:** MIT | **Repository:** [SigNoz/signoz](https://github.com/SigNoz/signoz)  
 SigNoz is an open-source full-stack observability platform natively engineered on OpenTelemetry and ClickHouse. It combines application metrics, distributed distributed traces, and log aggregation into a single unified web console as an open alternative to Datadog.  
 🎯 **Best for:** Unified traces, metrics, and logs with OpenTelemetry standardization without commercial SaaS lock-in.
@@ -125,7 +125,7 @@ SigNoz is an open-source full-stack observability platform natively engineered o
 ---
 
 ### 🚀 VictoriaMetrics
-[![GitHub stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers)  
 **Stack:** Go | **License:** Apache-2.0 | **Repository:** [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)  
 VictoriaMetrics is a fast, cost-effective, and scalable time-series database and monitoring solution. Built as a drop-in replacement for Prometheus and InfluxDB, it delivers up to 10x compression, low memory utilization, and native PromQL/MetricsQL compatibility.  
 🎯 **Best for:** High-cardinality long-term metrics storage, massive-scale monitoring clusters, and low-cost Prometheus federation.
@@ -133,7 +133,7 @@ VictoriaMetrics is a fast, cost-effective, and scalable time-series database and
 ---
 
 ### 🛡️ Zabbix
-[![GitHub stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social&color=white)](https://github.com/zabbix/zabbix/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social&color=white)](https://github.com/zabbix/zabbix/stargazers)  
 **Stack:** C / PHP / PostgreSQL / MySQL | **License:** AGPL-3.0 | **Repository:** [zabbix/zabbix](https://github.com/zabbix/zabbix)  
 Zabbix is an enterprise-grade distributed monitoring solution designed to monitor millions of metrics from servers, virtual machines, network devices, and cloud applications. It supports native agents as well as agentless SNMP, IPMI, and JMX monitoring with auto-discovery.  
 🎯 **Best for:** Large enterprise infrastructure, multi-vendor network hardware, and centralized on-premise data centers.
@@ -141,7 +141,7 @@ Zabbix is an enterprise-grade distributed monitoring solution designed to monito
 ---
 
 ### ⚙️ Checkmk
-[![GitHub stars](https://img.shields.io/github/stars/checkmk/checkmk?style=social&color=white)](https://github.com/checkmk/checkmk/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/checkmk/checkmk?style=social&color=white)](https://github.com/checkmk/checkmk/stargazers)  
 **Stack:** C++ / Python | **License:** GPL-2.0 | **Repository:** [checkmk/checkmk](https://github.com/checkmk/checkmk)  
 Checkmk is an infrastructure and application monitoring platform that combines Nagios compatibility with a modern high-performance micro-core engine. It delivers automated configuration discovery, 2,000+ official plugins, and granular host telemetry.  
 🎯 **Best for:** High-density enterprise infrastructure monitoring requiring rapid auto-discovery and pre-packaged plug-and-play checks.
@@ -149,7 +149,7 @@ Checkmk is an infrastructure and application monitoring platform that combines N
 ---
 
 ### 🚨 Icinga 2
-[![GitHub stars](https://img.shields.io/github/stars/icinga/icinga2?style=social&color=white)](https://github.com/icinga/icinga2/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/icinga/icinga2?style=social&color=white)](https://github.com/icinga/icinga2/stargazers)  
 **Stack:** C++ | **License:** GPL-2.0 | **Repository:** [icinga/icinga2](https://github.com/icinga/icinga2)  
 Icinga 2 is a multi-threaded, scalable open-source monitoring system designed to monitor entire network fabrics, cloud environments, and server fleets. It provides a flexible configuration language, native cluster capabilities, and clean REST APIs.  
 🎯 **Best for:** Scalable multi-zone distributed monitoring, complex alerting rule chains, and modern Nagios modernization.
@@ -157,8 +157,8 @@ Icinga 2 is a multi-threaded, scalable open-source monitoring system designed to
 ---
 
 ### 🏛️ Munin
-[![GitHub stars](https://img.shields.io/github/stars/munin-monitoring/munin?style=social&color=white)](https://github.com/munin-monitoring/munin)  
-[![GitHub stars](https://img.shields.io/github/stars/munin-monitoring/munin?style=social&color=white)](https://github.com/munin-monitoring/munin/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/munin-monitoring/munin?style=social&color=white)](https://github.com/munin-monitoring/munin)  
+[![GitHub_Stars](https://img.shields.io/github/stars/munin-monitoring/munin?style=social&color=white)](https://github.com/munin-monitoring/munin/stargazers)  
 **Stack:** Perl / RRDtool | **License:** GPL-2.0 | **Repository:** [munin-monitoring/munin](https://github.com/munin-monitoring/munin)  
 Munin is a networked resource monitoring tool that surveys host parameters and generates historical graphs over time using RRDtool. With a plug-and-play architecture, it provides an unpretentious way to analyze server resource consumption patterns.  
 🎯 **Best for:** Lightweight historical resource graphing, simple Linux server fleet health, and low-overhead tracking.
@@ -166,7 +166,7 @@ Munin is a networked resource monitoring tool that surveys host parameters and g
 ---
 
 ### 📡 Nagios Core
-[![GitHub stars](https://img.shields.io/github/stars/NagiosEnterprises/nagioscore?style=social&color=white)](https://github.com/NagiosEnterprises/nagioscore/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/NagiosEnterprises/nagioscore?style=social&color=white)](https://github.com/NagiosEnterprises/nagioscore/stargazers)  
 **Stack:** C | **License:** GPL-2.0 | **Repository:** [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore)  
 Nagios Core is an industry-standard IT monitoring foundation powering server, network, and application surveillance worldwide. Its modular plugin architecture enables custom checks written in any scripting language with battle-tested alert escalations.  
 🎯 **Best for:** Traditional IT operations, custom script checks, and mission-critical server availability alerting.
@@ -198,7 +198,7 @@ Contributions are warmly welcome! If you maintain or use a noteworthy Server Mon
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a descriptive branch: `git checkout -b feature/add-new-tool`.
-3. 📝 Add your tool with official links, supported tech stack, license, GitHub star badge, and clear architectural use cases.
+3. 📝 Add your tool with official links, supported tech stack, license, GitHub Stars_Badge, and clear architectural use cases.
 4. 🚀 Submit a Pull Request with a summary of the additions.
 
 ---
